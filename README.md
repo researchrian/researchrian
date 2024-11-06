@@ -1,11 +1,10 @@
-# Olá, eu sou Rian Souza Santos 👋
+Olá, eu sou Rian Souza Santos 👋
+🌍 Representando o Estado da Bahia, Brasil
 
-## 🌍 Representando o Estado da Bahia, Brasil
-
-🚀 **Desenvolvedor de Software** apaixonado por tecnologia e inovação!  
+🚀 Desenvolvedor de Software apaixonado por tecnologia e inovação!  
 Tenho **22 anos** e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
-## 🔧 Linguagens e Tecnologias que Trabalho
+🔧 Linguagens e Tecnologias que Trabalho
 - TypeScript
 - Node.js
 - JavaScript
@@ -31,6 +30,5 @@ Eu estou sempre em busca de novos projetos e ideias para contribuir.
 Curioso sobre o que estou criando? Dê uma olhada nos meus repositórios e veja como posso ajudar você a transformar suas ideias em código!
 
 📫 Como Entrar em Contato
-📧 Email: rian.souza@example.com
-🧑‍💻 LinkedIn: linkedin.com/in/riansouza
-🌐 Website (se tiver): www.riansouza.dev
+📧 Email: riansouzasantos.desenvolvedor@gmail.com | rssxda-dev@proton.me 
+🧑‍💻 LinkedIn: https://www.linkedin.com/in/rian-s-santos-4b76a3304/
