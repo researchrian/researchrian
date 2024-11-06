@@ -9,6 +9,7 @@ Tenho **22 anos** e estou sempre em busca de novos desafios para aprimorar minha
 - Node.js
 - JavaScript
 - Python
+- C/C++
 
 💾 Bancos de Dados que Uso
 Copiar código
