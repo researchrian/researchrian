@@ -1,4 +1,4 @@
-# Hello, I'm Rian Souza Santos 👋 🌍
+# Hi, I'm Rian Souza Santos 👋 🌍
 - Representing the state of Bahia, Brazil 🚀  
 - Software Developer passionate about technology and innovation! I'm 22 years old and always looking for new challenges to improve my skills. 
 
