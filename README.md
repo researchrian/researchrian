@@ -1,35 +1,25 @@
-Olá, eu sou Rian Souza Santos 👋
-🌍 Representando o Estado da Bahia, Brasil
+# Hello, I'm Rian Souza Santos 👋 🌍
+- Representing the state of Bahia, Brazil 🚀  
+- Software Developer passionate about technology and innovation! I'm 22 years old and always looking for new challenges to improve my skills. 
 
-🚀 Desenvolvedor de Software apaixonado por tecnologia e inovação!  
-Tenho **22 anos** e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
+### 🔧 Technologies I Work With:
+- **Languages**: TypeScript, Node.js, JavaScript, Python, C/C++
+- **Databases**: MySQL, PostgreSQL, MongoDB
 
-🔧 Linguagens e Tecnologias que Trabalho
-- TypeScript
-- Node.js
-- JavaScript
-- Python
-- C/C++
+### 👨‍💻 What I Do
+I am a full-stack developer with a strong focus on back-end development, but I don't shy away from a good front-end challenge. Since the beginning of my journey in programming, I have fallen in love with understanding how applications work behind the scenes, which is why I specialize in Node.js, TypeScript, and JavaScript.
 
-💾 Bancos de Dados que Uso
-Copiar código
-- MySQL
-- PostgreSQL
-- MongoDB
+I build scalable, fast, and robust solutions using technologies like Node.js and TypeScript. I'm also a big fan of Python, an amazing language for automation and data analysis. 🐍
 
-👨‍💻 O que eu faço?
-Eu sou um desenvolvedor full-stack com forte foco em back-end, mas também não fujo de um bom desafio no front-end. Desde o início da minha jornada na programação, me apaixonei por entender o funcionamento das aplicações por trás das telas, e é por isso que hoje me especializo em Node.js, TypeScript e JavaScript.
+### 📊 Databases I Work With
+I have experience working with various types of databases, from relational ones like MySQL and PostgreSQL, to NoSQL with MongoDB. I believe each project requires the right technology at the right time.
 
-💡 Desenvolvo soluções escaláveis, rápidas e robustas com tecnologias como Node.js e TypeScript. Também sou fã de Python, uma linguagem incrível para automação e análise de dados. 🐍
+### ⚙️ Let's Build Something Together?
+If you're looking for someone who enjoys solving problems, learning quickly, and creating high-impact solutions, you're in the right place. I'm always looking for new projects and ideas to contribute to.
 
-📊 Trabalhei com diferentes tipos de bancos de dados, de relacionais como MySQL e PostgreSQL, até NoSQL com MongoDB. Acredito que cada projeto exige a tecnologia certa para o momento certo. ⚙️
+### Curious About What I'm Building?
+Check out my repositories to see how I can help turn your ideas into code!
 
-🚀 Vamos Construir Algo Juntos?
-Se você está buscando alguém que gosta de resolver problemas, aprender rapidamente e criar soluções de alto impacto, você está no lugar certo.
-Eu estou sempre em busca de novos projetos e ideias para contribuir.
-
-Curioso sobre o que estou criando? Dê uma olhada nos meus repositórios e veja como posso ajudar você a transformar suas ideias em código!
-
-📫 Como Entrar em Contato
-📧 Email: riansouzasantos.desenvolvedor@gmail.com | rssxda-dev@proton.me 
-🧑‍💻 LinkedIn: https://www.linkedin.com/in/rian-s-santos-4b76a3304/
+### 📫 How to Reach Me
+- **Email**: riansouzasantos.desenvolvedor@gmail.com | rssxda-dev@proton.me  
+- **LinkedIn**: [linkedin.com/in/rian-s-santos-4b76a3304/](https://www.linkedin.com/in/rian-s-santos-4b76a3304/)
