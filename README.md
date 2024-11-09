@@ -3,7 +3,7 @@
 - Software Developer passionate about technology and innovation! I'm 22 years old and always looking for new challenges to improve my skills. 
 
 ### 🔧 Technologies I Work With:
-- **Languages**: TypeScript, Node.js, JavaScript, Python, C/C++
+- **Languages**: TypeScript, Node.js, JavaScript, Python, C/C++, Go
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ### 👨‍💻 What I Do
